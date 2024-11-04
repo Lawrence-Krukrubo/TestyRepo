@@ -13,6 +13,6 @@ public class TestScript1 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Debug.Log("Hello World Every Frame!!!");
     }
 }
